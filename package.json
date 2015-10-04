@@ -3,6 +3,13 @@
   "description": "SocketStream User Sessions with Cookies",
   "version": "0.5.0",
   "author": "Henrik Vendelbo <henrik@socketstream.org>",
+  "author_name": "Henrik Vendelbo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/socketstream/socketstream-cookie-session.git"
+  },
+  "bugs": "https://github.com/socketstream/socketstream-cookie-session/issues",
+  "license": "MIT",
   "engines": {
     "node": ">= 0.10.0"
   },
