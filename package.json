@@ -1,7 +1,7 @@
 {
   "name": "socketstream-cookie-session",
   "description": "SocketStream User Sessions with Cookies",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "author": "Henrik Vendelbo <henrik@socketstream.org>",
   "author_name": "Henrik Vendelbo",
   "repository": {
@@ -15,10 +15,7 @@
   },
   "dependencies": {
     "body-parser": "1.13.3",
-    "compression": "1.5.2",
-    "connect": "3.4.0",
     "connect-redis": "2.4.1",
-    "connect-static": "1.5.0",
     "cookie": "~0.2.2",
     "cookie-parser": "1.3.5",
     "cookie-session": "1.2.0",
